@@ -1,0 +1,11 @@
+pypdf
+langchain
+sentence_transformers
+bitsandbytes
+accelerate
+kaleido
+python-multipart
+chromadb
+ollama
+tiktoken
+langchain_community
